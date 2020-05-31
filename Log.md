@@ -4,6 +4,8 @@
 
 Tried 4 CNN models
 
+(CNN2 always has the "cuda out of memory" probelm) 
+
 Underfitting --> Overfitting
 
 CNN4: training accuracy 0.92 eval accuracy 0.54
