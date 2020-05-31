@@ -24,9 +24,13 @@ test accuracy: 0.608
 ------May 31 22：02------
 Tried another 2 CNN models
 
-Tried data augmentation
+Tried VGG structure (in CNN6)
 
-Tried reducing learning rate when a metric has stopped improving
+Tried data augmentation (in CNN5)
+
+Tried L2 regularization (in CNN 5,6)
+
+Tried reducing learning rate when a metric has stopped improving (in CNN5,6)
 
 The overfitting problem still exists and eval accuracy still low
 
