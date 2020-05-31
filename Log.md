@@ -34,6 +34,10 @@ Tried reducing learning rate when a metric has stopped improving (in CNN5,6)
 
 The overfitting problem still exists and eval accuracy still low
 
----------------------------
+------Jun 1 00：14------
+
+Tried Transform learning ResNet 18
+
+The best eval accuracy of that net is 0.923
 
 
