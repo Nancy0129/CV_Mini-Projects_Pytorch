@@ -24,3 +24,6 @@ The training sequence:
 
            
            The highest eval accuracy: 0.794 (180E in CNN continue 3)
+
+
+Different "try" used different structures and "continue" use the same structure.
