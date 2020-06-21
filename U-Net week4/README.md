@@ -19,13 +19,13 @@ Training with MSE Loss:
 Comparison of Loss Function:
 ------
 	
-$$	
+
 Notebook|train|eval|Data Augmentation| Epoch|Threshold
 --------|-----|-----|----------------|-------|---------|
-Accuracy comparison of Loss Function_50E|1000|500|\checkmark|100|\times
-Accuracy comparison of Loss Function_100E|1000|500|\checkmark|100|\times
-Comparison of Dice and MSE with threshold|1000|500|\checkmark|100|\checkmark
-$$
+Accuracy comparison of Loss Function_50E|1000|500|√|100|×
+Accuracy comparison of Loss Function_100E|1000|500|√|100|×
+Comparison of Dice and MSE with threshold|1000|500|√|100|√
+
 	
 ------
 	
