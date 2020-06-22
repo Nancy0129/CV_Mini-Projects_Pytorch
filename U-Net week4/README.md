@@ -35,7 +35,7 @@ Training with Dice Loss:
 
 	DiceLoss_2000_100:        2000 images, add augmentation, 100E   --> w1 
 
-	DiceLoss_4000_50:		  4000 images, add augmentation, 50E   
+	DiceLoss_4000_50:         4000 images, add augmentation, 50E   
 	
 	
 	
