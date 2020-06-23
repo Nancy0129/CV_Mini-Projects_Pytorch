@@ -4,7 +4,7 @@ Training:
 
 Notebook|train|eval|Augmentation| Epoch|LR
 --------|:-----:|:-----:|:----------------:|:-------:|:---------:|
-body-parts 2000_50|1000|500|×|100|0.01
+body-parts 2000_50|2000|600|×|50|0.01
 
 
 	
