@@ -12,6 +12,13 @@ small model 10000_40|small|10000|1000|×|40|0.001|×|s1|
 small model 30000_20|small|30000|1000|×|20|0.001|s1|s2|
 small model 30000_20_2|small|30000|1000|vflip + hflip + rotation|20|0.001|s2|s3|
 
+	The conv layer channles:
+	In the "big" model: 64 --> 128 --> 256 --> 512 --> 1024 --> 512 --> 256 --> 128 --> 64
+	In the "small" model: 32 --> 64 --> 128 --> 256 --> 512 --> 256 --> 128 --> 64 --> 32
+	
+	Input: the input weight 
+	Output: the output weight
+	(w1,w2,w3 for big model; s1,s2,s3 for small model)
 	
 
 	
