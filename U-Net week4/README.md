@@ -25,7 +25,7 @@ Notebook|train|eval|Data Augmentation| Epoch|Threshold
 Accuracy comparison of Loss Function_50E|1000|500|√|100|×
 Accuracy comparison of Loss Function_100E|1000|500|√|100|×
 Comparison of Dice and MSE with threshold|1000|500|√|100|√
-
+Accuracy comparison of Activation Function_120E|2000|600|√|120|√
 	
 ------
 	
