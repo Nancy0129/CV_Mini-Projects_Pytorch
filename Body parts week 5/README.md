@@ -33,6 +33,34 @@ Res+UNet 10000_50|20|Flase|10000|1000|×|50|0.001|×|×|
 Res+UNet_transfer 10000_60|20|True|10000|1000|vflip + hflip + rotation|60|0.001|×|r1|
 Res+UNet_transfer 30000_25|20|True|10000|1000|vflip + hflip + rotation|25|0.001|r1|×|
 Res+UNet_transfer 30000_30|20|True|10000|1000|vflip + hflip + rotation|30|0.001|r1|×|
+
+
+Result:
+--------
+### 20 Labels:
+
+Notebook|tran_acc|eval_acc|
+--------|:----:|:----:|
+body-parts 2000_50|0.23012|0.10795|
+body-parts 10000_30|0.43956|0.18441|
+body-parts 30000_8|0.42371|0.25031|
+body-parts 30000_8_2|0.24414|0.22734|
+small model 10000_40|0.42562|0.18260|
+small model 30000_20|0.46599|0.24742|
+small model 30000_20_2|0.25066|0.22219|
+Res+UNet 10000_50|0.50680|0.22591|
+Res+UNet_transfer 10000_60|0.29760|0.23355|
+Res+UNet_transfer 30000_25|0.29075|0.24272|
+Res+UNet_transfer 30000_30|0.29737|0.24287|
+------
+
+### 9 Labels:
+Notebook|tran_acc|eval_acc|
+--------|:----:|:----:|
+less-label 10000_60|0.69559|0.43761|
+less-label 30000_20|0.44565|0.41765|
+less-label 30000_20_2|0.47672|0.43902|
+
 	
 	
 	
