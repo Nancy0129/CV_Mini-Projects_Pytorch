@@ -31,6 +31,7 @@ Notebook|Label|Transfered|train|eval|Augmentation| Epoch|LR|Input|Output
 --------|:----:|:----:|:-----:|:-----:|:----------------:|:-------:|:---------:|:-------:|:---------:|
 Res+UNet 10000_50|20|Flase|10000|1000|×|50|0.001|×|×|
 Res+UNet_transfer 10000_60|20|True|10000|1000|vflip + hflip + rotation|60|0.001|×|r1|
+Res+UNet_transfer 30000_25|20|True|10000|1000|vflip + hflip + rotation|25|0.001|r1|×|
 	
 	
 	
