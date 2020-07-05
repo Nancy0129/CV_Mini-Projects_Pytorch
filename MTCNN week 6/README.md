@@ -7,7 +7,6 @@ References:
 	Code in github:
 	https://github.com/TropComplique/mtcnn-pytorch
 	https://github.com/GitHberChen/MTCNN_Pytorch
-	
 
 	
 	
